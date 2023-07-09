@@ -1,0 +1,13 @@
+C盘:  windows系统
+D盘:  软件工具安装 软件
+E盘:  资料 
+F盘:  代码项目
+
+https://gitee.com/qiu-sen-huang/typora-chart-bed
+
+echo ![]\(https://gitee.com/qiu-sen-huang/typora-chart-bed/raw/master/%s\) | pbcopy
+
+
+google email:
+AggressiveCute666@
+篡改猴
